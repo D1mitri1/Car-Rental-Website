@@ -2,15 +2,15 @@ body, html {
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
-  background-color: #121212;
-  color: white;
+  background-color: #743d3d;
+  color: rgb(113, 79, 79);
 }
 
 nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
+  background-color: #000000;
   padding: 10px 20px;
   color: white;
 }
@@ -28,7 +28,7 @@ nav .nav-right {
 }
 
 nav .nav-right a {
-  color: white;
+  color: rgb(56, 32, 32);
   text-decoration: none;
   margin-left: 15px;
   font-size: 1rem;
@@ -59,7 +59,7 @@ nav .nav-right .profile-picture {
 }
 
 .btn-yellow {
-  background-color: #FFC107;
+  background-color: #705607;
   padding: 10px 20px;
   border-radius: 20px;
   font-weight: bold;
@@ -248,7 +248,7 @@ nav .nav-right .profile-picture {
 }
 
 .registration-container .errors {
-  background-color: #FF6F61;
+  background-color: #480600;
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 20px;
