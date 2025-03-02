@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "car_id": 1,
+        "user_id": 2,
+        "start_date": "2024-01-10",
+        "end_date": "2024-01-15"
+    },
+    {
+        "user_id": null,
+        "car_id": "2",
+        "start_date": "2023-11-13",
+        "end_date": "2025-01-16"
+    },
+    {
+        "user_id": null,
+        "car_id": "1",
+        "start_date": "2025-01-15",
+        "end_date": "2025-01-30"
+    },
+    {
+        "user_id": null,
+        "car_id": "3",
+        "start_date": "2025-01-15",
+        "end_date": "2025-01-22",
+        "user_email": "vaxoudzilari@gmail.com"
+    },
+    {
+        "user_email": "dpopkhadze05@gmail.com",
+        "car_id": "1",
+        "start_date": "2025-01-07",
+        "end_date": "2025-01-16"
+    },
+    {
+        "user_id": 1,
+        "car_id": "6",
+        "start_date": "2025-01-22",
+        "end_date": "2025-01-30"
+    },
+    {
+        "user_id": 1,
+        "car_id": "10",
+        "start_date": "2025-01-16",
+        "end_date": "2025-01-23"
+    },
+    {
+        "user_id": 1,
+        "car_id": "2",
+        "start_date": "2025-01-21",
+        "end_date": "2025-01-23"
+    },
+    {
+        "user_id": 1,
+        "car_id": "3",
+        "start_date": "2025-01-22",
+        "end_date": "2025-01-31"
+    },
+    {
+        "user_id": null,
+        "car_id": "5",
+        "start_date": "2025-01-15",
+        "end_date": "2025-01-29"
+    },
+    {
+        "user_id": null,
+        "car_id": "8",
+        "start_date": "2025-01-22",
+        "end_date": "2025-01-30",
+        "user_email": "vaxoudzilari@gmail.com"
+    },
+    {
+        "user_id": null,
+        "car_id": "9",
+        "start_date": "2025-01-15",
+        "end_date": "2025-01-29",
+        "user_email": "vaxoudzilari@gmail.com"
+    },
+    {
+        "user_id": null,
+        "car_id": "3",
+        "start_date": "2025-01-22",
+        "end_date": "2025-01-29",
+        "user_email": "vaxoudzilari@gmail.com"
+    },
+    {
+        "user_id": null,
+        "car_id": "9",
+        "start_date": "2025-01-27",
+        "end_date": "2025-01-29",
+        "user_email": "vaxoudzilari@gmail.com"
+    },
+    {
+        "user_id": null,
+        "car_id": "4",
+        "start_date": "2025-01-28",
+        "end_date": "2025-01-31",
+        "user_email": "vaxoudzilari@gmail.com"
+    },
+    {
+        "user_id": null,
+        "car_id": "5",
+        "start_date": "2025-01-28",
+        "end_date": "2025-01-31",
+        "user_email": "vaxoudzilari@gmail.com"
+    },
+    {
+        "user_id": null,
+        "car_id": "2",
+        "start_date": "2025-01-21",
+        "end_date": "2025-01-29",
+        "user_email": "vaxoudzilari@gmail.com"
+    },
+    {
+        "user_id": 1,
+        "car_id": "3",
+        "start_date": "2025-01-29",
+        "end_date": "2025-01-31",
+        "user_email": "dpopkhadze05@gmail.com"
+    },
+    {
+        "user_id": 1,
+        "car_id": "1",
+        "start_date": "2025-01-16",
+        "end_date": "2025-01-30",
+        "user_email": "d@gmail.com"
+    },
+    {
+        "user_id": 1,
+        "car_id": "2",
+        "start_date": "2025-01-15",
+        "end_date": "2025-01-23",
+        "user_email": "d@gmail.com"
+    }
+]
